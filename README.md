@@ -52,6 +52,8 @@ Este script é uma ferramenta poderosa e versátil para análise de segurança, 
 Aqui estão algumas capturas de tela do relatório HTML gerado pelo script:
 
 ![image](https://github.com/MarBentes/IP-URL-Analyzer/assets/170649057/4f9d04dc-9300-4e82-af8b-dd219b9565d2)
+![image](https://github.com/MarBentes/IP-URL-Analyzer/assets/170649057/59bd585a-c7cd-423b-9a1a-705fa93a21df)
+
 
 
 FAQ
