@@ -27,7 +27,7 @@ Este script em Python realiza uma análise de segurança abrangente de endereço
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/IP-URL-Analyzer.git
+   git clone https://github.com/MarceloBentes/IP-URL-Analyzer.git
 Instale as dependências:
 bash
 Copiar código
