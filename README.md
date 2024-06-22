@@ -47,6 +47,13 @@ Usuários Individuais: Verificam a segurança de sites que planejam visitar.
 Conclusão
 Este script é uma ferramenta poderosa e versátil para análise de segurança, integrando múltiplas fontes de dados e fornecendo uma análise abrangente, capacitando os usuários a tomar decisões informadas e agir proativamente contra ameaças cibernéticas.
 
+## Saída do Script
+
+Aqui estão algumas capturas de tela do relatório HTML gerado pelo script:
+
+![image](https://github.com/MarBentes/IP-URL-Analyzer/assets/170649057/4f9d04dc-9300-4e82-af8b-dd219b9565d2)
+
+
 FAQ
 Pergunta 1: Como obtenho as chaves API necessárias para as várias integrações?
 Resposta: Você precisa registrar-se nos sites dos serviços (como VirusTotal, AbuseIPDB) para obter as chaves.
